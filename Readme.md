@@ -14,7 +14,7 @@ I took Simons great idea for the Indie i2 and converted/upscaled it to run 200x2
 Currated infos and links:
 
 * [OpenBuilds Link to the original build](http://openbuilds.org/builds/indie-i2.1976/).
-* OpenBuilds Post for this modification.
+* [OpenBuilds Post for this modification](http://openbuilds.org/threads/indielc.1578/page-9#post-47391).
 
 ---
 
